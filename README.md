@@ -142,8 +142,6 @@ Salida: `app/build/outputs/apk/release/app-release.apk` y `app/build/outputs/bun
 
 ## 6. Captura del APK firmado y del .jks
 
-![APK firmado y archivo .jks](docs/apk-firmado-y-jks.png)
-
 Archivos entregados en la carpeta de firma: `InduztekProtocolos.apk`, `InduztekProtocolos.aab` e `InduztekProtocolos.jks`.
 
 ## Planificación y control de versiones
